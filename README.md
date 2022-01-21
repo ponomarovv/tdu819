@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### My name is Ponomarov Oleksii. I am a .NET programmer.
+
+###### TODO add a resume, photo and screens.
 
 <!--
 **tdu819/tdu819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
