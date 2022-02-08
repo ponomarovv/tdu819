@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Ponomarov Oleksii. I am a .NET programmer.
+#### My name is Ponomarov Oleksii. I am a .NET Developer.
 
 
 
